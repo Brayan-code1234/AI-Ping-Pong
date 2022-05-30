@@ -24,3 +24,9 @@ body{
     line-height: 2;
     text-align: center;
  }
+
+ video {
+     background-size: cover;
+     background-position: center;
+     padding: 25px;
+ }
